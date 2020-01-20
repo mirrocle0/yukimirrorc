@@ -6,6 +6,15 @@ html{
     font-size: 100%;
 }
 
+@media screen and (max-width: 768px) {
+
+html{
+    font-size: 150%;
+}
+
+}
+
+
 body{
     
     font-family: Roboto;
